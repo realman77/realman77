@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on telegram, instagram
 - 📫 How to reach me @Diamondman51
-- 😄 Pronouns: He/Hi/They/They
+- 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: Juniors
 
 <!---
